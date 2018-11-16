@@ -1,0 +1,8 @@
+prefix=/home/shared/ws/devel
+
+Name: srl_origami_manipulator
+Description: Description of srl_origami_manipulator
+Version: 0.0.0
+Cflags: -I/home/shared/ws/devel/include
+Libs: -L/home/shared/ws/devel/lib 
+Requires: roscpp sensor_msgs std_msgs message_runtime

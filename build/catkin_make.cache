@@ -1,0 +1,2 @@
+srl_origami_manipulator
+-DCATKIN_DEVEL_PREFIX=/home/shared/ws/devel -DCMAKE_INSTALL_PREFIX=/home/shared/ws/install -G Unix Makefiles
